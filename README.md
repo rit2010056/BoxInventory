@@ -1,5 +1,11 @@
 # BoxInventory
 
+Clone the repo
+```
+git clone https://github.com/rit2010056/BoxInventory.git
+cd BoxInventory
+```
+
 Create virtual environment
 ```
 python3 -m venv env
