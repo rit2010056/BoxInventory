@@ -32,7 +32,7 @@ API Postman Link:
 https://www.getpostman.com/collections/e3ac88296b7ecbcc8a0a
 ```
 
-sample user in sqlite:
+Sample user in sqlite DB:
 ```
 USERNAME PASSWORD STAFF_OR_NOT
 
