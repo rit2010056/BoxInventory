@@ -31,3 +31,14 @@ API Postman Link:
 ```
 https://www.getpostman.com/collections/e3ac88296b7ecbcc8a0a
 ```
+
+sample user in sqlite:
+```
+USERNAME PASSWORD STAFF_OR_NOT
+
+krishna pushpendra1234 non staff
+pushpendra  staff superuser krishna123
+shyam pushpendra1234 staff
+ram pushpendra1234 staff
+vishnu pushpendra1234 non staff
+```
